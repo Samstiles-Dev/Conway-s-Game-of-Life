@@ -1,1 +1,2 @@
-# Conway-s-Game-of-Life
+# Javascript Game of Life
+Conway's Game of Life in Javascript and canvas.
